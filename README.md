@@ -19,4 +19,5 @@
 ### Вопросы по **CSS и препроцессорам**:
 
 1. Типы позиционирования в CSS
-![image](https://user-images.githubusercontent.com/33577099/159160343-37b13b5f-9739-42e5-be19-fe6ee975ff89.png)
+   
+![image](https://user-images.githubusercontent.com/33577099/159160487-ad2b7132-9046-44c5-85da-cef4ffe751de.png)
